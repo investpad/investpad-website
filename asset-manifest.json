@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/investpad-website/static/css/main.52edabdc.css",
-    "main.js": "/investpad-website/static/js/main.62881970.js",
+    "main.css": "/investpad-website/static/css/main.326f4aff.css",
+    "main.js": "/investpad-website/static/js/main.7b0eb2c4.js",
     "static/js/787.aaa2ab93.chunk.js": "/investpad-website/static/js/787.aaa2ab93.chunk.js",
+    "static/media/LogoDark.svg": "/investpad-website/static/media/LogoDark.910dd93248142a4a97603b043a1452b7.svg",
+    "static/media/Icon.svg": "/investpad-website/static/media/Icon.9b85c28918d76063975c31597c456048.svg",
     "index.html": "/investpad-website/index.html",
-    "main.52edabdc.css.map": "/investpad-website/static/css/main.52edabdc.css.map",
-    "main.62881970.js.map": "/investpad-website/static/js/main.62881970.js.map",
+    "main.326f4aff.css.map": "/investpad-website/static/css/main.326f4aff.css.map",
+    "main.7b0eb2c4.js.map": "/investpad-website/static/js/main.7b0eb2c4.js.map",
     "787.aaa2ab93.chunk.js.map": "/investpad-website/static/js/787.aaa2ab93.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52edabdc.css",
-    "static/js/main.62881970.js"
+    "static/css/main.326f4aff.css",
+    "static/js/main.7b0eb2c4.js"
   ]
 }

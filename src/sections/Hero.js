@@ -8,7 +8,7 @@ function Hero() {
         <div class="grid grid-cols-1 md:grid-cols-2">
           <div>
             <img className="h-8 w-auto sm:h-10" src={AppLogo} alt="" />
-            <p className="my-8 text-2xl text-slate-50">
+            <p className="mt-8 mb-12 text-2xl text-slate-50">
               Decentralized LaunchPad, Staking Protocol, Incubator, and DAO.
             </p>
             <div className="mt-4">

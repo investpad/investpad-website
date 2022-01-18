@@ -107,6 +107,7 @@ function TransitionPanel() {
 
 function Header() {
   return (
+    <header className="sticky top-0 z-50">
     <Popover className="relative bg-white">
       <div className="container mx-auto px-4 sm:px-6">
         <div className="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
@@ -117,6 +118,7 @@ function Header() {
         </div>
       </div>
     </Popover>
+    </header>
   );
 }
 

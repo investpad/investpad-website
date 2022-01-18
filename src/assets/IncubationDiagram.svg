@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="304px" viewBox="0 0 384 304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>IncubationDiagram</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IncubationDiagram" transform="translate(-64.000000, -104.000000)">
+            <g transform="translate(64.000000, 104.000000)">
+                <rect id="Rectangle" fill="#334155" x="0" y="0" width="384" height="64"></rect>
+                <rect id="Rectangle-Copy" fill="#475569" x="0" y="80" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-2" fill="#475569" x="200" y="80" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-4" fill="#475569" x="0" y="160" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-3" fill="#475569" x="200" y="160" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-5" fill="#475569" x="0" y="240" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-6" fill="#475569" x="200" y="240" width="184" height="64"></rect>
+                <text id="KYC-verification" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="32.764" y="195">KYC verification</tspan>
+                </text>
+                <text id="AMA-Sessions" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="40.916" y="275">AMA Sessions</tspan>
+                </text>
+                <text id="Developers" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="250.568" y="275">Developers</tspan>
+                </text>
+                <text id="Incubation-program" font-family="ProductSans-Bold, Product Sans" font-size="24" font-weight="bold" line-spacing="32" fill="#F8FAFC">
+                    <tspan x="83.28" y="39">Incubation program</tspan>
+                </text>
+                <text id="Feasibility-study" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="32.104" y="115">Feasibility study</tspan>
+                </text>
+                <text id="Risk-assessment" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="231.832" y="115">Risk assessment</tspan>
+                </text>
+                <text id="Launch-&amp;-Listing" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="232.3" y="195">Launch &amp; Listing</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

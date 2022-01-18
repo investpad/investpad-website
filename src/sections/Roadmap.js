@@ -94,9 +94,9 @@ function Item({ name, list }) {
   )
 }
 
-function Roadmap() {
+function Roadmap({ variant }) {
   return (
-    <Section variant="light">
+    <Section variant={variant}>
       <div className="container mx-auto px-4 sm:px-6">
         <h2 className="mb-16 text-slate-50 text-2xl text-center underline font-semibold">Roadmap 2022</h2>
         <div class="overflow-x-auto flex pb-8">

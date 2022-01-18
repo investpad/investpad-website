@@ -30,11 +30,11 @@ function PopoverButton() {
 }
 
 const items = [
-  { name: "Crowdfunding", href: "#" },
-  { name: "Staking", href: "#" },
-  { name: "Governance", href: "#" },
-  { name: "Incubation", href: "#" },
-  { name: "Tokenomics", href: "#" },
+  { name: "Crowdfunding", href: "#crowdfunding" },
+  { name: "Staking", href: "#staking" },
+  { name: "Governance", href: "#governance" },
+  { name: "Incubation", href: "#incubation" },
+  { name: "Tokenomics", href: "#tokenomics" },
 ];
 
 function ItemLink({ name, href }) {

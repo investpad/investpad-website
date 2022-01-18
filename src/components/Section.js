@@ -11,12 +11,12 @@ function getColors(variant) {
   }
 }
 
-function Section ({ children, variant }) {
+function Section ({ children, variant, id }) {
   
   const colors = getColors(variant)
 
   return (
-    <section className={`py-24 ${colors}`}>{children}</section>
+    <section className={`py-24 ${colors}`} id={id}>{children}</section>
   )
 }
 

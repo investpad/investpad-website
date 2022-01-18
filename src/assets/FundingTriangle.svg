@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="256px" viewBox="0 0 384 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FundingTriangle</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="FundingTriangle" transform="translate(-64.000000, -128.000000)">
+            <g transform="translate(64.000000, 128.000000)">
+                <g id="Group-4" transform="translate(0.000000, 192.000000)">
+                    <path d="M336,0 L384,64 L0,64 L48,0 L336,0 Z" id="Combined-Shape" fill="#64748B"></path>
+                    <text id="Public-Sale" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" fill="#F8FAFC">
+                        <tspan x="151.344" y="38">Public  Sale</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(72.750000, 95.000000)">
+                    <path d="M190.5,0 L238.5,64 L0,64 L48,0 L190.5,0 Z" id="Combined-Shape-Copy" fill="#475569"></path>
+                    <text id="Private-Sale" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" fill="#F8FAFC">
+                        <tspan x="76.442" y="39">Private Sale</tspan>
+                    </text>
+                </g>
+                <g id="Group-3" transform="translate(144.000000, 0.000000)">
+                    <path d="M48,0 L96,64 L0,64 L48,0 Z" id="Combined-Shape-Copy-2" fill="#334155"></path>
+                    <text id="Seed" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" fill="#F8FAFC">
+                        <tspan x="29.824" y="47">Seed</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

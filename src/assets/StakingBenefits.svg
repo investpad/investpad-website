@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="384px" height="304px" viewBox="0 0 384 304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="StakingDiagram" transform="translate(-64.000000, -104.000000)">
+            <g id="Group" transform="translate(64.000000, 104.000000)">
+                <rect id="Rectangle" fill="#334155" x="0" y="0" width="384" height="64"></rect>
+                <rect id="Rectangle-Copy-5" fill="#64748B" x="0" y="240" width="384" height="64"></rect>
+                <rect id="Rectangle-Copy" fill="#475569" x="0" y="80" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-2" fill="#475569" x="200" y="80" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-4" fill="#475569" x="0" y="160" width="184" height="64"></rect>
+                <rect id="Rectangle-Copy-3" fill="#475569" x="200" y="160" width="184" height="64"></rect>
+                <text id="Governance-voting" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="22.068" y="195">Governance voting</tspan>
+                </text>
+                <text id="Staking-benefits" font-family="ProductSans-Bold, Product Sans" font-size="24" font-weight="bold" line-spacing="32" fill="#F8FAFC">
+                    <tspan x="102.732" y="39">Staking benefits</tspan>
+                </text>
+                <text id="Participation-in-sal" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="16.144" y="115">Participation in sales</tspan>
+                </text>
+                <text id="Fee-distribution" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="234.056" y="115">Fee distribution</tspan>
+                </text>
+                <text id="Staking-rewards" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="233.628" y="195">Staking rewards</tspan>
+                </text>
+                <text id="Future-benefits" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#F8FAFC">
+                    <tspan x="135.736" y="275">Future benefits</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

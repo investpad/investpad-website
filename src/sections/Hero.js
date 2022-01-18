@@ -1,9 +1,9 @@
 import Section from "../components/Section";
 import AppLogo from "../LogoDark.svg";
 
-function Hero() {
+function Hero({ variant }) {
   return (
-    <Section variant="dark">
+    <Section variant={variant}>
       <div className="container mx-auto px-4 sm:px-6">
         <div class="grid grid-cols-1 md:grid-cols-2">
           <div>

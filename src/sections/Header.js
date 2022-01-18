@@ -34,6 +34,7 @@ const items = [
   { name: "Staking", href: "#staking" },
   { name: "Governance", href: "#governance" },
   { name: "Incubation", href: "#incubation" },
+  { name: "Tiers", href: "#tiers" },
   { name: "Tokenomics", href: "#tokenomics" },
 ];
 

@@ -7,6 +7,7 @@ import Incubation from "./sections/Incubation";
 import Overview from "./sections/Overview";
 import Roadmap from "./sections/Roadmap";
 import Staking from "./sections/Staking";
+import Tiers from "./sections/Tiers";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Staking variant="dark" />
       <Governance variant="darkToLight" />
       <Incubation variant="light" />
+      <Tiers variant="lightToDark" />
     </>
   );
 }

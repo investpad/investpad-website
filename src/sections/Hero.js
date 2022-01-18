@@ -1,5 +1,5 @@
 import Section from "../components/Section";
-import AppLogo from "../LogoDark.svg";
+import AppLogo from "../assets/LogoDark.svg";
 
 function Hero({ variant }) {
   return (

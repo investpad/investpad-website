@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="456px" height="290px" viewBox="0 0 456 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Feature</title>
+    <g id="Sections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="section/Tokens" transform="translate(-760.000000, -127.000000)">
+            <g id="Group" transform="translate(208.000000, 112.000000)">
+                <g transform="translate(536.000000, 0.000000)" id="Feature">
+                    <rect id="Rectangle" x="0" y="0" width="488" height="320"></rect>
+                    <text id="Sidenote" font-family="ProductSans-Regular, Product Sans" font-size="16" font-weight="normal" fill="#F8FAFC">
+                        <tspan x="216" y="175">A non-tradable token received when </tspan>
+                        <tspan x="216" y="194">FUEL is staked. The amount of xFUEL </tspan>
+                        <tspan x="216" y="213">received depends on the amount of </tspan>
+                        <tspan x="216" y="232">FUEL staked and the lockup duration. </tspan>
+                        <tspan x="216" y="251">xFUEL allows you to participate in </tspan>
+                        <tspan x="216" y="270">sales, governance and much more.</tspan>
+                    </text>
+                    <text id="Text" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#CBD5E1">
+                        <tspan x="216" y="31">Type: BEP-20 Token</tspan>
+                        <tspan x="216" y="55">Total Supply: Unlimited</tspan>
+                        <tspan x="216" y="79">Transferable: No</tspan>
+                        <tspan x="216" y="103">Governance: Yes</tspan>
+                    </text>
+                    <g id="TokenCircle" transform="translate(16.000000, 96.000000)">
+                        <circle id="Oval" stroke="#FDE047" stroke-width="4" fill="#FACC15" cx="64" cy="64" r="62"></circle>
+                        <text id="name" font-family="ProductSans-Bold, Product Sans" font-size="32" font-weight="bold" line-spacing="48" fill="#0F172A">
+                            <tspan x="18.352" y="71">xFUEL</tspan>
+                        </text>
+                    </g>
+                    <polyline id="Path" stroke="#94A3B8" stroke-width="2" transform="translate(308.000000, 56.000000) scale(-1, 1) translate(-308.000000, -56.000000) " points="144 16 400 16 472 96"></polyline>
+                    <polyline id="Path-2" stroke="#94A3B8" stroke-width="2" transform="translate(308.000000, 264.000000) scale(-1, 1) translate(-308.000000, -264.000000) " points="144 304 400 304 472 224"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

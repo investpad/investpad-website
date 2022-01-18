@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="456px" height="290px" viewBox="0 0 456 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Feature</title>
+    <g id="Sections" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="section/Tokens" transform="translate(-224.000000, -127.000000)">
+            <g id="Feature" transform="translate(208.000000, 112.000000)">
+                <rect id="Rectangle" x="0" y="0" width="488" height="320"></rect>
+                <text id="Sidenote" font-family="ProductSans-Regular, Product Sans" font-size="16" font-weight="normal" fill="#F8FAFC">
+                    <tspan x="16" y="175">A tradable token that powers the </tspan>
+                    <tspan x="16" y="194">platform. The price of FUEL is </tspan>
+                    <tspan x="16" y="213">determined by the market. To use </tspan>
+                    <tspan x="16" y="232">the platform you must stake your </tspan>
+                    <tspan x="16" y="251">FUEL tokens.</tspan>
+                </text>
+                <text id="Text" font-family="ProductSans-Bold, Product Sans" font-size="16" font-weight="bold" line-spacing="24" fill="#CBD5E1">
+                    <tspan x="16" y="31">Type: BEP-20 Token</tspan>
+                    <tspan x="16" y="55">Total Supply: 100,000,000</tspan>
+                    <tspan x="16" y="79">Transferable: Yes</tspan>
+                    <tspan x="16" y="103">Governance: No</tspan>
+                </text>
+                <g id="TokenCircle" transform="translate(344.000000, 96.000000)">
+                    <circle id="Oval" stroke="#FDE047" stroke-width="4" fill="#FACC15" cx="64" cy="64" r="62"></circle>
+                    <text id="name" font-family="ProductSans-Bold, Product Sans" font-size="32" font-weight="bold" line-spacing="48" fill="#0F172A">
+                        <tspan x="26.576" y="71">FUEL</tspan>
+                    </text>
+                </g>
+                <polyline id="Path" stroke="#94A3B8" stroke-width="2" points="16 16 272 16 344 96"></polyline>
+                <polyline id="Path-2" stroke="#94A3B8" stroke-width="2" points="16 304 272 304 344 224"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
